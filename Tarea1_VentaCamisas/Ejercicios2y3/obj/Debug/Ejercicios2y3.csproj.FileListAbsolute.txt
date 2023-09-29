@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Ejercicios2y3\bin\Debug\Ejercicios2y3.exe.config
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Ejercicios2y3\bin\Debug\Ejercicios2y3.exe
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Ejercicios2y3\bin\Debug\Ejercicios2y3.pdb
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Ejercicios2y3\obj\Debug\Ejercicios2y3.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Ejercicios2y3\obj\Debug\Ejercicios2y3.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Ejercicios2y3\obj\Debug\Ejercicios2y3.exe
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Ejercicios2y3\obj\Debug\Ejercicios2y3.pdb

@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Tarea1_VentaCamisas\obj\Debug\Tarea1_VentaCamisas.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Tarea1_VentaCamisas\obj\Debug\Tarea1_VentaCamisas.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Tarea1_VentaCamisas\bin\Debug\Tarea1_VentaCamisas.exe.config
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Tarea1_VentaCamisas\bin\Debug\Tarea1_VentaCamisas.exe
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Tarea1_VentaCamisas\bin\Debug\Tarea1_VentaCamisas.pdb
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Tarea1_VentaCamisas\obj\Debug\Tarea1_VentaCamisas.exe
+C:\Users\antho\OneDrive\Documentos\Programacion 2\Tarea1_VentaCamisas\Tarea1_VentaCamisas\obj\Debug\Tarea1_VentaCamisas.pdb
