@@ -13,11 +13,11 @@ namespace Ejercicios2y3
             int opcion = 0;
             do
             {
-                Console.WriteLine("*****************");
+                Console.WriteLine("****************");
                 Console.WriteLine("1-Ejercicio2");
                 Console.WriteLine("2-Ejercicio 3");
                 Console.WriteLine("3-Salir");
-                Console.WriteLine("*****************");
+                Console.WriteLine("****************");
                 Console.WriteLine("Digite su opcion");
                 opcion = int.Parse(Console.ReadLine());
 
